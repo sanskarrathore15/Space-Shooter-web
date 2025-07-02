@@ -20,6 +20,10 @@
 
 This is an asteroid-themed space shooter game where players navigate a spaceship through space, dodging and shooting down different types of asteroids. The goal is to score as high as possible while avoiding collisions with asteroids and enemy bullets. The game progressively becomes more challenging as the player's score and levels increase.
 
+
+https://github.com/user-attachments/assets/da4fd7b6-f9b6-4afa-9611-da240749bc0d
+
+
 ## Game Features
 
 ### Main Screens
